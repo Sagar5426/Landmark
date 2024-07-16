@@ -42,6 +42,7 @@
 		45313FA72C41446B004301B4 /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45313FA62C41446B004301B4 /* PageViewController.swift */; };
 		45313FA92C414C26004301B4 /* FeatureCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45313FA82C414C26004301B4 /* FeatureCard.swift */; };
 		45313FAB2C414EEE004301B4 /* PageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45313FAA2C414EEE004301B4 /* PageView.swift */; };
+		454F3F052C467F6000209827 /* PageControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 454F3F042C467F6000209827 /* PageControl.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -81,6 +82,7 @@
 		45313FA62C41446B004301B4 /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
 		45313FA82C414C26004301B4 /* FeatureCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeatureCard.swift; sourceTree = "<group>"; };
 		45313FAA2C414EEE004301B4 /* PageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageView.swift; sourceTree = "<group>"; };
+		454F3F042C467F6000209827 /* PageControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageControl.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -236,6 +238,7 @@
 				45313FA62C41446B004301B4 /* PageViewController.swift */,
 				45313FA82C414C26004301B4 /* FeatureCard.swift */,
 				45313FAA2C414EEE004301B4 /* PageView.swift */,
+				454F3F042C467F6000209827 /* PageControl.swift */,
 			);
 			path = PageView;
 			sourceTree = "<group>";
@@ -323,6 +326,7 @@
 				4523D3C02C3E5F490069352E /* GraphCapsule.swift in Sources */,
 				4523D3C22C3E5F490069352E /* HikeGraph.swift in Sources */,
 				4528A7062C3C034B008F541B /* LandmarkApp.swift in Sources */,
+				454F3F052C467F6000209827 /* PageControl.swift in Sources */,
 				450C15A52C3D1A2300F6FE81 /* FavoriteButton.swift in Sources */,
 				4520390B2C3FF1AE00FA766B /* CategoryItem.swift in Sources */,
 				4500779C2C3D97ED00890478 /* HexagonParameters.swift in Sources */,
