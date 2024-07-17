@@ -4,6 +4,25 @@
 
 Welcome to the Landmark App! This app is developed using SwiftUI and MapKit, allowing users to store, manage, and explore landmarks. It includes features such as marking favorites, filtering landmarks, creating a personalized featured screen, and a profile section with animated graphs.
 
+## Featured Screen 
+<img width="200" alt="Screenshot 2024-07-17 at 1 42 20 PM" src="https://github.com/user-attachments/assets/098abc2d-40ef-4180-9513-f35dac60ab70">
+
+## Profile View
+<img width="200" alt="Screenshot 2024-07-17 at 1 42 09 PM" src="https://github.com/user-attachments/assets/93016dc8-81ce-4b59-9607-08d0c2b8d6b0">
+<img width="200" alt="Screenshot 2024-07-17 at 1 46 14 PM" src="https://github.com/user-attachments/assets/1acd12fa-e6e9-4349-93e8-c511fff35e89">
+
+## Landmark DetailView
+<img width="200" alt="Screenshot 2024-07-17 at 1 42 39 PM" src="https://github.com/user-attachments/assets/c446769d-5403-4339-a397-928dce9ae2d4">
+
+## List View
+<img width="200" alt="Screenshot 2024-07-17 at 1 43 08 PM" src="https://github.com/user-attachments/assets/71c22d74-36dc-4dfd-b272-5c3f5c41f85e">
+<img width="200" alt="Screenshot 2024-07-17 at 1 43 16 PM" src="https://github.com/user-attachments/assets/ce99324f-d94b-46d6-8ad5-b2b8ade80bb6">
+
+
+
+
+
+
 ## Features
 
 - 📍 **Store Landmarks:** Easily save and manage landmarks of various places.
